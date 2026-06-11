@@ -22,6 +22,8 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riandevee&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riandevee&layout=donut&theme=tokyonight&hide_border=true)
+![Top Langs](https://raw.githubusercontent.com/riandevee/riandevee/languages-output/dist/languages.svg)
+![Snake animation](https://raw.githubusercontent.com/riandevee/riandevee/snake-output/dist/snake.svg)
 
 ## 📌 Projetos em Destaque
 
