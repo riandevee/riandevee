@@ -18,7 +18,7 @@
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
-## 📊 Estatísticas
+## 📊 Estatísticas 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riandevee&layout=donut&theme=tokyonight&hide_border=true)
 
