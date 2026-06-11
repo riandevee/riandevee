@@ -20,8 +20,10 @@
 ---
 ## 📊 Estatísticas e Linguagens
 
-![Top Langs](https://raw.githubusercontent.com/riandevee/riandevee/languages-output/languages.svg)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riandevee&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=riandevee&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/riandevee/riandevee/languages-output/languages.svg" height="165" alt="Top Langs" />
+</p>
 
 
 ## 📌 Projetos em Destaque
