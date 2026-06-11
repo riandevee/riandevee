@@ -22,9 +22,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riandevee&layout=donut&theme=tokyonight&hide_border=true)
 
-#### 🕹️ Atividade de Commits (Estilo Pac-Man)
-[![Pacman Commits](https://vercel.app)](https://github.com)
-
 
 ## 📌 Projetos em Destaque
 
