@@ -47,4 +47,4 @@ Simulação em C dos modos de mapeamento de memória cache: direto, associativo 
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rianruelaribeiro)
-[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:rianribeiro16@hotmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rianribeiro16@hotmail.com)
