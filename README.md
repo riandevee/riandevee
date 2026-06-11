@@ -49,5 +49,5 @@ Simulação em C dos modos de mapeamento de memória cache: direto, associativo 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rianruelaribeiro)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rianribeiro16@hotmail.com)
 
-
+---
 ![Snake animation](https://raw.githubusercontent.com/riandevee/riandevee/snake-output/snake.svg)
