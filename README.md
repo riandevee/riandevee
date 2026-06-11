@@ -30,7 +30,7 @@
 ### 🔐 [Sentinela Blockchain](https://github.com/riandeve/sentinela_blockchain)
 Sistema de monitoramento de integridade de arquivos em tempo real com Node.js, Express e arquitetura Blockchain local com hashing Bcrypt.
 
-### 🏗️ [Sistema de Gestão de Construtora — LPI](https://github.com/riandevee/projeto_da_ufgd_aula_mp)
+### 🏗️ [Sistema de Gestão de Construtora — LPI](https://github.com/riandevee/ProjetoLPI1)
 Projeto acadêmico em Python utilizando Programação Orientada a Objetos (POO) para o gerenciamento de obras, contratos, empreiteiros e equipamentos. Desenvolvido para a disciplina de LPI — UFGD.
 
 ### 💾 [Simulação de Cache — AOC](https://github.com/riandevee/trabalho-aoc-cache)
