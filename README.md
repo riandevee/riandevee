@@ -42,8 +42,8 @@ Simulação em C dos modos de mapeamento de memória cache: direto, associativo 
 ## 📚 Atualmente estudando
 
 - 📖 JavaScript — freeCodeCamp (219/1318 lições)
-- 📖 Álgebra Linear e Cálculo
-- 📖 Arquitetura de Computadores
+- 📖 PHP & Laravel
+- 📖 PostgreSQL
 
 ---
 
