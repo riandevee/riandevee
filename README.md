@@ -22,7 +22,7 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white)
 
----
+----
 ## 📊 Estatísticas e Linguagens
 
 <p align="left">
